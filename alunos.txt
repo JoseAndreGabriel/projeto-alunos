@@ -3,4 +3,11 @@ Luisa
 Barbosa
 Steven
 Sopa de catato
+-----------------------------------
 Esta é a lista 
+Coisa Boa TimeLine
+Nesta nova fase estamos a trabalhar com breanch, criando novas timelines
+
+
+
+Para variar agora usamos as timeslines para consolidar os conceitos
